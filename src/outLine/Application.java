@@ -6,7 +6,7 @@ public class Application {
 		// TODO Auto-generated method stub
 		
 		for (int i =0; i<4; i++) {
-			System.out.println("Line " + (i+1));
+			System.out.println("Line  " + (i+1));
 			
 		}
 
